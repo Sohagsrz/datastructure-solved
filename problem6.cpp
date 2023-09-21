@@ -10,7 +10,7 @@ int main( ){
     cin >> newInput;
 
 
-    int numbers[10]= {1,2,3,4,5,6,7,8,9};
+    int numbers[10]= {1,2,3,4,5,6,7,8,9, NULL};
     int nSize= sizeof(numbers)/ sizeof(numbers[0]);
 
     // some drafts
